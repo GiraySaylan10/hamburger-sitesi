@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "title": "Beef Burger",
+      "price": "120 TL",
+      "image": "https://foodland.ca/wp-content/uploads/2021/05/handmade-beef-burger.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Hamburger",
+      "price": "70 TL",
+      "image": "https://www.kevserinmutfagi.com/wp-content/uploads/2012/01/hamburger1-1.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Cheese Burger",
+      "price": "80 TL",
+      "image": "https://www.sargento.com/assets/Uploads/Recipe/Image/burger_0.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Chicken Burger",
+      "price": "65 TL",
+      "image": "https://veef.com.au/wp-content/uploads/2022/05/veef-chicken-new-recipe.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Fish Burger",
+      "price": "75 TL",
+      "image": "https://www.sidechef.com/recipe/3757da91-05a1-4738-b894-a8d6bcae6ac4.jpg?d=375x375"
+    },
+    {
+      "id": 6,
+      "title": "Mini Burger",
+      "price": "60 TL",
+      "image": "https://assets-eu-01.kc-usercontent.com/559bb7d3-88a4-01c1-79a3-dd4d5b2d2bb0/2c94bce6-d052-470b-a8f0-1e34c5a11186/Mini%20Burgers_Landscape-7.jpg"
+    }
+]
+    

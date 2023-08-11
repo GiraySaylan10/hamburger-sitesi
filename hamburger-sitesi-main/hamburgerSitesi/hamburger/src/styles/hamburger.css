@@ -1,0 +1,390 @@
+* {
+   box-sizing: border-box;
+}
+
+
+.navbar {
+    width: 100%;
+    height: 100px;
+    background-color: yellow;
+    display: flex;
+    
+    flex-direction: row;
+    border-bottom: white 300px;
+  }
+  
+  
+
+  .mainPage {
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    flex-direction: column;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  
+  .order {
+    width: auto;
+    margin-left: 50px;
+    margin-bottom: 50px;
+  }
+  
+  .order button {
+    border: none;
+    cursor: pointer;
+    background-color: brown;
+    height: 50px;
+    width: 180px;
+    color: white;
+    font-size: 20px;
+    border-radius: 30px;
+  }
+  
+  
+  
+    .order {
+      margin-left: 0px;
+      border-radius: 10px;
+      padding: 10px;
+      width: 80%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+    }
+  
+  div.home{
+    
+    width: 100%;
+    
+    background-color: red;
+
+  } 
+  
+  
+  .container{
+    margin-top : 20px;
+    
+  
+  }
+
+ img {
+  filter: contrast(200%) brightness(200%);
+  
+}
+
+textarea{
+  width: 80%;
+  height: 150px;
+  margin-top: 2px ;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  margin-left:20px;
+  font-size: 16px;
+  resize: none;
+}
+
+.contact {
+  
+  width: 100%;
+  display: flex;
+  
+}
+
+.div1{
+  background-color: white;
+  margin: 8px 20px;
+  width:225px;
+  
+  
+}
+
+#main{
+  background-color: black;
+  height:420px;
+  width: 270px;
+  margin-top:70px;
+  margin-left:400px;
+  
+  }
+
+  .check{
+    background-color: white;
+    height: 25px;
+    width:80%;
+    margin-left: 20px;
+  }
+  
+ .containerUrun{
+  margin-top : 20px;
+  height : 275px;
+ 
+  
+  .main{
+    max-width: 1200px;
+    margin: 0 auto;
+    list-style: none;
+    
+  }
+  
+  h1 {
+      font-size: 24px;
+      font-weight: 400;
+      text-align: center;
+  }
+  
+  
+  
+  .btn {
+    color: #ffffff;
+    padding: 0.8rem;
+    font-size: 14px;
+    text-transform: uppercase;
+    border-radius: 4px;
+    font-weight: 400;
+    display: block;
+    width: 100%;
+    cursor: pointer;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    background: transparent;
+  }
+  
+  .btn:hover {
+    background-color: rgba(255, 255, 255, 0.12);
+  }
+  
+  .cards {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .cards_item {
+    display: flex;
+    padding: 1rem;
+    width: 33.3333%;
+  }
+  
+  
+  
+  .card2 {
+    background-color: white;
+    border-radius: 0.25rem;
+    box-shadow: 0 20px 40px -14px rgba(0, 0, 0, 0.25);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+  
+  .card_content {
+    padding: 1rem;
+    background: linear-gradient(to bottom left, #EF8D9C 40%, #FFC39E 100%);
+  }
+  
+  .card_title {
+    color: #ffffff;
+    font-size: 1.1rem;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+    margin: 0px;
+  }
+  
+  .card_text {
+    color: #ffffff;
+    font-size: 0.875rem;
+    line-height: 1.5;
+    margin-bottom: 1.25rem;    
+    font-weight: 400;
+  }
+  .made_by{
+    font-weight: 400;
+    font-size: 13px;
+    margin-top: 35px;
+    text-align: center;
+  }
+  
+ }
+
+ ul{
+  
+    list-style: none outside none;
+    display: block;
+    
+ }
+
+ .main li{
+  display: inline-block;
+  margin: 10px;
+  position: relative;
+}
+ 
+img .card-img-top{
+
+  background-color: coral;
+}
+
+#card1:hover{
+  background-color: green;
+  cursor: pointer;
+ 
+}
+#card1{
+  height:440px;
+  background-color: coral;
+  border-style: solid;
+  border-width: 5px 5px 5px 5px;
+}
+#card2:hover{
+  background-color: green;
+  cursor: pointer;
+
+}
+#card2{
+  height:440px;
+  background-color: coral;
+  border-style: solid;
+  border-width: 5px 5px 5px 5px;
+}
+#card3:hover{
+  background-color: green;
+  cursor: pointer;
+}
+#card3{
+  height:440px;
+  background-color: coral;
+  border-style: solid;
+  border-width: 5px 5px 5px 5px;
+}
+#card4:hover{
+  background-color: green;
+  cursor: pointer;
+}
+#card4{
+  height:440px;
+  background-color: coral;
+  border-style: solid;
+  border-width: 5px 5px 5px 5px;
+}
+#card5:hover{
+  background-color: green;
+  cursor: pointer;
+}
+#card5{
+  height:440px;
+  background-color: coral;
+  border-style: solid;
+  border-width: 5px 5px 5px 5px;
+}
+#card6:hover{
+  background-color: green;
+  cursor: pointer;
+}
+#card6{
+  height:440px;
+  background-color: coral;
+  border-style: solid;
+  border-width: 5px 5px 5px 5px ;
+}
+
+.pull-left {
+  float: left!important;
+}
+
+.thumbnail {
+  display: block;
+  padding: 4px;
+  margin-bottom: 20px;
+  line-height: 1.42857143;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  -webkit-transition: border .2s ease-in-out;
+  -o-transition: border .2s ease-in-out;
+  transition: border .2s ease-in-out;
+}
+
+.containerYorum{
+
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top : 20px;
+}
+
+.mr-15{
+  margin-right: 15px !important;
+}
+
+div.slider-wrapper.axis-horizontal{
+  height:300px;
+}
+ul.slider.animated{
+
+  height:500px;
+}
+
+.dropbtn {
+  background-color:yellow;
+  color:blue;
+  padding: 16px;
+  font-size: 21px;
+  border: none;
+}
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color:red;}
+
+a.three:hover {font-family:monospace;
+}
+
+.ghost-on-hover-btn {
+  font-family: 'Oswald', sans-serif;
+  border: 2px solid #ff9800;
+  color: #ffffff;
+  padding: 12px 40px;
+  background: #ff9800;
+  text-transform: uppercase;
+  font-size: 16px;
+  font-weight: 700;
+  display: inline-block;
+  -webkit-transition: all 0.3s ease-out;
+  -moz-transition: all 0.3s ease-out;
+  -ms-transition: all 0.3s ease-out;
+  -o-transition: all 0.3s ease-out;
+  transition: all 0.3s ease-out;
+}
