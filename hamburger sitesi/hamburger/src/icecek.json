@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "title": "Kola",
+        "price": "18 TL",
+        "image":" https://docsd.ceptesok.com/product/1000x1000/5bcbe_Kola_330_Ml.png"
+      },
+      {
+        "id": 2,
+        "title": "Çay",
+        "price": "12 TL",
+        "image": "https://www.pngplay.com/wp-content/uploads/8/Black-Tea-PNG-Free-File-Download.png"
+      },
+      {
+        "id": 3,
+        "title": "Gazoz",
+        "price": "10 TL",
+        "image": "https://egitimgrafik.com/wp-content/uploads/2020/01/sprite-1024x1024.png"
+      },
+      {
+        "id": 4,
+        "title": "Ayran",
+        "price": "7 TL",
+        "image": "https://www.sutas.com.tr/assets/uploads/product-detail/Ayran_200ml.png"
+      },
+      {
+        "id": 5,
+        "title": "Su",
+        "price": "8 TL",
+        "image": "https://www.sbarro.com.tr/cmsfiles/products/su-1.png?v=78"
+      },
+      {
+        "id": 6,
+        "title": "Maden Suyu",
+        "price": "5 TL",
+        "image": "https://eng.pinar.com.tr/images/urunler/su/madensuyu_denge.png"
+      },
+      {
+        "id": 7,
+        "title": "Kahve",
+        "price": "25 TL",
+        "image": "https://saki.us/cdn/shop/articles/What-is-Turkish-Coffee-Thumbnail_455x455.jpg?v=1656428495"
+      },
+      {
+        "id": 8,
+        "title": "Enerji İçeceği",
+        "price": "25 TL",
+        "image": "https://cdnsta.avansas.com/mnresize/900/-/urun/79402/red-bull-enerji-icecegi-250-ml-zoom-1.jpg"
+      }
+  ]
+      
